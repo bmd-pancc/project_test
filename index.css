@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div h1 {
+    color: deeppink;
+    font-weight: 400;
+}
+
+h2 {
+    color: pink;
+}
+
+h3 {
+    color: aqua;
+    background-color: orange;
+}
+
+span {
+
+    color: deeppink;
+    background-color: #ccc;
+}
