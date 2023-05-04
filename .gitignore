@@ -1,0 +1,20 @@
+# 忽略text.css 文件
+text.css
+
+# 忽略所有.css文件
+*.css
+
+# 忽略text目录下的所有文件
+text/
+
+# 跟踪所有的index.css文件(即便前面已经忽略.css文件)
+!index.css
+
+# 只忽略当前目录下的text文件,而不忽略  其他目录/text
+/text
+
+# 忽略 doc/a.txt,但不忽略 doc/a/b.txt
+doc/*.txt
+
+# 忽略doc/ 目录极其所有子目录下的 .pdf文件
+doc/**/*.pdf
